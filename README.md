@@ -3,6 +3,8 @@
 This repository contains a collection of Go programs and libraries that
 demonstrate the language, standard libraries, and tools.
 
+### In case you did not notice the fine print near the top of the page, I forked this from golang/example
+
 ## The examples
 
 ### [hello](hello/) ([godoc](//godoc.org/github.com/golang/example/hello)) and [stringutil](stringutil/) ([godoc](//godoc.org/github.com/golang/example/stringutil))
